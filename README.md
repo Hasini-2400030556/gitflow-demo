@@ -1,3 +1,4 @@
 # Gitflow Demo
 
-This project demonstrates Gitflow workflow on the develop branch.
+This project demonstrates the calculator feature.
+The calculator includes addition, subtraction, multiplication, and division.
